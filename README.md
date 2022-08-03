@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello there 👋 My name is Vivian Kwong
+=============================
 
-<!--
-**VKwongData/VKwongData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst and MS in Business Analytics Candidate
+-------------------------------------------------
 
-Here are some ideas to get you started:
+🌍  Based in New York, NY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Former Big Four tax professional with a proven track record of optimizing operational processes and solving business problems using analytics and automation. Worked on several professional, personal and academic projects utilizing Alteryx Designer, Microsoft Power BI, Tableau, SQL, Python and R. Currently pursuing a Master's in Business Analytics, as well as Alteryx Designer Advanced Certification.
+
+🤝 Connect with me on <a href="https://www.linkedin.com/in/vkwong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /></a>
+
+🖥️  See my portfolio of featured projects on <a href="https://vkwongdata.github.io/" target="_blank">https://vkwongdata.github.io/</a>
+
+Have fun exploring!
+
